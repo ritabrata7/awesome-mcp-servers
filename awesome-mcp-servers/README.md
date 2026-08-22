@@ -39,7 +39,7 @@ MCP was created by Anthropic in November 2024 and adopted by OpenAI, Google Deep
 Think of it like a USB-C port for AI — one protocol, plug in any tool.
 
 ```
-Your AI Assistant ↔︎ MCP Client ↔︎ MCP Server ↔︎ Real World Tool
+Your AI Assistant ←→ MCP Client ←→ MCP Server ←→ Real World Tool
 ```
 
 **Without MCP:** Your AI can read/write files and run terminal commands. That's it.  
