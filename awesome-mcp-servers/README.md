@@ -39,7 +39,7 @@ MCP was created by Anthropic in November 2024 and adopted by OpenAI, Google Deep
 Think of it like a USB-C port for AI — one protocol, plug in any tool.
 
 ```
-Your AI Assistant ←→ MCP Client ←→ MCP Server ←→ Real World Tool
+Your AI Assistant ↔︎ MCP Client ↔︎ MCP Server ↔︎ Real World Tool
 ```
 
 **Without MCP:** Your AI can read/write files and run terminal commands. That's it.  
@@ -193,6 +193,7 @@ AWS, Cloudflare, and infrastructure tools.
 
 - [Google Maps MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) — Directions, geocoding, place search. Official reference. `TypeScript` · 🔑 Maps API key
 - [OpenStreetMap MCP](https://github.com/leynier/mcp-osm) — Free geocoding and map data via OpenStreetMap Nominatim. `Python` · 🆓 No key needed
+- [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) ☁️ — Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. `Remote` · 🆓 No key needed
 
 ---
 
