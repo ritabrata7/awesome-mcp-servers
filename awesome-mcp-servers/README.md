@@ -193,6 +193,7 @@ AWS, Cloudflare, and infrastructure tools.
 
 - [Google Maps MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) — Directions, geocoding, place search. Official reference. `TypeScript` · 🔑 Maps API key
 - [OpenStreetMap MCP](https://github.com/leynier/mcp-osm) — Free geocoding and map data via OpenStreetMap Nominatim. `Python` · 🆓 No key needed
+- [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) ☁️ — Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. `Remote` · 🆓 No key needed
 
 ---
 
