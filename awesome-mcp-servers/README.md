@@ -27,6 +27,7 @@ MCP was created by Anthropic in November 2024 and adopted by OpenAI, Google Deep
 - [🔒 Security](#-security)
 - [📝 Productivity & Knowledge](#-productivity--knowledge)
 - [🗺️ Maps & Location](#️-maps--location)
+- [Finance & Payments](#finance--payments)
 - [📚 Learning Resources](#-learning-resources)
 - [🤝 Contributing](#-contributing)
 
@@ -193,6 +194,12 @@ AWS, Cloudflare, and infrastructure tools.
 
 - [Google Maps MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) — Directions, geocoding, place search. Official reference. `TypeScript` · 🔑 Maps API key
 - [OpenStreetMap MCP](https://github.com/leynier/mcp-osm) — Free geocoding and map data via OpenStreetMap Nominatim. `Python` · 🆓 No key needed
+
+---
+
+## Finance & Payments
+
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local x402 offer inspection, bounded payment preparation and status/receipts for AI agents; Apple Silicon macOS and Node 24 only. `TypeScript` · 🏠 Local only
 
 ---
 
